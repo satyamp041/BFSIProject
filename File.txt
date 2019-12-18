@@ -10,12 +10,12 @@ Class Myclass
 		System.out.println("\nHello........");
 	}
 
-	public String greetMethod()
+	public static String greetMethod()
 	{
 		return "\nHello Gi!!!!!!!!!t";
 	}
 	public static void main(String[] args)
 	{
-		
+		greetMethod("\nHello Git.....Welcome");
 	}
 }
