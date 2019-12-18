@@ -4,6 +4,10 @@
 
 Class Myclass
 {
+	public void greetMethod(String str)
+	{
+		System.out.println("\nHello........");
+	}
 	public static void main(String[] args)
 	{
 		System.out.println("\nHello Gi!!!!!!!!!t");
